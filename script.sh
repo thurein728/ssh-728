@@ -22,19 +22,19 @@ echo "
 <h3><font color='magenta'>--- ۩ PREMIUM SERVER ۩ ---
 </font></h3>
 
-<h3><font color='green'>--- ۩ SERVER BY ④ ⍤⃝🌻④ ۩ ---
+<h3><font color='green'>--- ۩ SERVER BY ThuRein ۩ ---
 </font></h3>
 
-<h4><font color='cyan'>Telegram Channel >> https://t.me/Pmttg
+<h4><font color='cyan'>Telegram Channel >>
 </font></h4>
 
-<h4><font color='blue'>Telegram Channel >> https://t.me/nkka_404
+<h4><font color='blue'>Telegram Channel >>
 </font></h4>
 
 <h3><font color='red'>▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬
 </font></h3>" | tee /etc/ssh/gcp_404 >/dev/null
-useradd "404" --shell=/bin/false -M
-echo "404:404" | chpasswd
+useradd "728" --shell=/bin/false -M
+echo "728:728" | chpasswd
 
 echo ""
 
@@ -49,4 +49,4 @@ echo -e "${cyan}          \|__|        \|_______|              \|__|            
 echo -e "${green}Contact the developer https://t.me/nkka404 for more information              ${plain}"
 echo -e "${yellow}▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ ${plain}"
 
-echo -e "${cyan}i am 404 😎 ${plain}"
+echo -e "${cyan}i am 728 😎 ${plain}"
